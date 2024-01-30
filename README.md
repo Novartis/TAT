@@ -6,7 +6,7 @@ compound-induced transcriptomic profiles over concentration.
 
 ## Contents
 
-- `tat`: Python source code for TAT
+- `tat`: Python source code for TAT.
 
 ## System requirements
 
